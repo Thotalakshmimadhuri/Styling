@@ -1,0 +1,17 @@
+{
+  margin: 0;
+  padding: 0;
+}
+
+.parent {
+  background-color: #860A35;
+  width: 100%;
+  height: 300px;
+ }
+
+ .child {
+   background-color: #EC8F5E;
+   width: 100px;
+   height: 100px;
+   margin: 10px;
+ }
